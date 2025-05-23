@@ -35,4 +35,4 @@ The purpose of this repository is to provide a structured way to practice and le
 
 - Clone or fork the repository:
   ```bash
- https://github.com/Subahan-1D/postgresSQL.git
+ git clone https://github.com/Subahan-1D/postgresSQL.git
